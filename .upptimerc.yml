@@ -15,7 +15,7 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: rongaming7777.github.io/Uptimer-Ron/
   # baseUrl: /your-repo-name
   logoUrl: https://media.discordapp.net/attachments/921624391769546863/937963281904189480/20220201_122057.png
   name: Upptime
