@@ -4,17 +4,19 @@
     "url": "https://RonPanda.81638283628917whwi28uwnskq.repl.co",
     "icon": "https://favicons.githubusercontent.com/ronpanda.81638283628917whwi28uwnskq.repl.co",
     "slug": "ron-panda",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1238,
-    "timeDay": 346,
-    "timeWeek": 1238,
-    "timeMonth": 1238,
-    "timeYear": 1238,
-    "dailyMinutesDown": {}
+    "time": 1118,
+    "timeDay": 363,
+    "timeWeek": 1118,
+    "timeMonth": 1118,
+    "timeYear": 1118,
+    "dailyMinutesDown": {
+      "2022-02-06": 0
+    }
   }
 ]
